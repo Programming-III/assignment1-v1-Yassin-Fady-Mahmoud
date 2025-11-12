@@ -3,9 +3,12 @@
 
 #include "Animal.h"
 
-//define mammal class here
+class mammal{
+    private:
+     string furColor;
+     
 
-
+}
 
 
 
